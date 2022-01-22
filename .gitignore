@@ -1,3 +1,8 @@
+
+# AWR Stuff
+DATA_SETS/
+*.vin
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
